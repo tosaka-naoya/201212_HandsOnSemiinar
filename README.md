@@ -1,0 +1,2 @@
+# 201212_HandsOnSemiinar
+2020年12月12日に開催したHandsOnSemiinarの投影資料です。
